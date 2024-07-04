@@ -1,6 +1,3 @@
-Certainly! Here is the complete `README.md` file including the `Installation` section starting from the second point:
-
-```markdown
 # ATS Score Calculify
 
 ## Overview
@@ -31,7 +28,6 @@ To set up the project on your local machine, follow these steps:
 ```bash
 git clone https://github.com/your-username/ats-score-calculify.git
 cd ats-score-calculify
-```
 
 ### 2. Create a Virtual Environment
 
