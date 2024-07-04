@@ -20,7 +20,7 @@ To set up the project on your local machine, follow these steps:
 1. Clone the Repository
 bash
 Copy code
-git clone https://github.com/your-username/ats-score-calculify.git
+git clone https://github.com/hitaishi-goel/ATS_Resume_Calculify.git
 cd ats-score-calculify
 2. Create a Virtual Environment
 bash
